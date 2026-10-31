@@ -1,0 +1,1400 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Rabbitwingz//Formula-1-ICS//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula 1
+X-WR-CALDESC:Formula 1 2026 season - every session in IST
+X-WR-TIMEZONE:Asia/Kolkata
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f1-2026-r01-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260306T070000
+DTEND;TZID=Asia/Kolkata:20260306T080000
+SUMMARY:🏁 Australian GP - Practice 1
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Australian Grand Prix - Round 1 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r01-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260306T103000
+DTEND;TZID=Asia/Kolkata:20260306T113000
+SUMMARY:🏁 Australian GP - Practice 2
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Australian Grand Prix - Round 1 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r01-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260307T070000
+DTEND;TZID=Asia/Kolkata:20260307T080000
+SUMMARY:🏁 Australian GP - Practice 3
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Australian Grand Prix - Round 1 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r01-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260307T103000
+DTEND;TZID=Asia/Kolkata:20260307T113000
+SUMMARY:🏁 Australian GP - Quali
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Australian Grand Prix - Round 1 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r01-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260308T093000
+DTEND;TZID=Asia/Kolkata:20260308T113000
+SUMMARY:🏁 Australian GP - Race
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Australian Grand Prix - Round 1 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260313T090000
+DTEND;TZID=Asia/Kolkata:20260313T100000
+SUMMARY:🏁 Chinese GP - Practice 1
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Chinese Grand Prix - Round 2 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260313T130000
+DTEND;TZID=Asia/Kolkata:20260313T140000
+SUMMARY:🏁 Chinese GP - Sprint Quali
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Chinese Grand Prix - Round 2 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260314T083000
+DTEND;TZID=Asia/Kolkata:20260314T093000
+SUMMARY:🏁 Chinese GP - Sprint
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Chinese Grand Prix - Round 2 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260314T123000
+DTEND;TZID=Asia/Kolkata:20260314T133000
+SUMMARY:🏁 Chinese GP - Quali
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Chinese Grand Prix - Round 2 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r02-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260315T123000
+DTEND;TZID=Asia/Kolkata:20260315T143000
+SUMMARY:🏁 Chinese GP - Race
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Chinese Grand Prix - Round 2 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260327T080000
+DTEND;TZID=Asia/Kolkata:20260327T090000
+SUMMARY:🏁 Japanese GP - Practice 1
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Japanese Grand Prix - Round 3 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260327T113000
+DTEND;TZID=Asia/Kolkata:20260327T123000
+SUMMARY:🏁 Japanese GP - Practice 2
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Japanese Grand Prix - Round 3 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260328T080000
+DTEND;TZID=Asia/Kolkata:20260328T090000
+SUMMARY:🏁 Japanese GP - Practice 3
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Japanese Grand Prix - Round 3 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260328T113000
+DTEND;TZID=Asia/Kolkata:20260328T123000
+SUMMARY:🏁 Japanese GP - Quali
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Japanese Grand Prix - Round 3 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r03-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260329T103000
+DTEND;TZID=Asia/Kolkata:20260329T123000
+SUMMARY:🏁 Japanese GP - Race
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Japanese Grand Prix - Round 3 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260501T213000
+DTEND;TZID=Asia/Kolkata:20260501T223000
+SUMMARY:🏁 Miami GP - Practice 1
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Miami Grand Prix - Round 4 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260502T020000
+DTEND;TZID=Asia/Kolkata:20260502T030000
+SUMMARY:🏁 Miami GP - Sprint Quali
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Miami Grand Prix - Round 4 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260502T213000
+DTEND;TZID=Asia/Kolkata:20260502T223000
+SUMMARY:🏁 Miami GP - Sprint
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Miami Grand Prix - Round 4 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260503T013000
+DTEND;TZID=Asia/Kolkata:20260503T023000
+SUMMARY:🏁 Miami GP - Quali
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Miami Grand Prix - Round 4 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r04-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260504T013000
+DTEND;TZID=Asia/Kolkata:20260504T033000
+SUMMARY:🏁 Miami GP - Race
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Miami Grand Prix - Round 4 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260522T220000
+DTEND;TZID=Asia/Kolkata:20260522T230000
+SUMMARY:🏁 Canadian GP - Practice 1
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Canadian Grand Prix - Round 5 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260523T020000
+DTEND;TZID=Asia/Kolkata:20260523T030000
+SUMMARY:🏁 Canadian GP - Sprint Quali
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Canadian Grand Prix - Round 5 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260523T213000
+DTEND;TZID=Asia/Kolkata:20260523T223000
+SUMMARY:🏁 Canadian GP - Sprint
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Canadian Grand Prix - Round 5 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260524T013000
+DTEND;TZID=Asia/Kolkata:20260524T023000
+SUMMARY:🏁 Canadian GP - Quali
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Canadian Grand Prix - Round 5 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r05-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260525T013000
+DTEND;TZID=Asia/Kolkata:20260525T033000
+SUMMARY:🏁 Canadian GP - Race
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Canadian Grand Prix - Round 5 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260605T170000
+DTEND;TZID=Asia/Kolkata:20260605T180000
+SUMMARY:🏁 Monaco GP - Practice 1
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Monaco Grand Prix - Round 6 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260605T203000
+DTEND;TZID=Asia/Kolkata:20260605T213000
+SUMMARY:🏁 Monaco GP - Practice 2
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Monaco Grand Prix - Round 6 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260606T160000
+DTEND;TZID=Asia/Kolkata:20260606T170000
+SUMMARY:🏁 Monaco GP - Practice 3
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Monaco Grand Prix - Round 6 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260606T193000
+DTEND;TZID=Asia/Kolkata:20260606T203000
+SUMMARY:🏁 Monaco GP - Quali
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Monaco Grand Prix - Round 6 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r06-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260607T183000
+DTEND;TZID=Asia/Kolkata:20260607T203000
+SUMMARY:🏁 Monaco GP - Race
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Monaco Grand Prix - Round 6 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260612T170000
+DTEND;TZID=Asia/Kolkata:20260612T180000
+SUMMARY:🏁 Barcelona GP - Practice 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Barcelona Grand Prix - Round 7 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260612T203000
+DTEND;TZID=Asia/Kolkata:20260612T213000
+SUMMARY:🏁 Barcelona GP - Practice 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Barcelona Grand Prix - Round 7 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260613T160000
+DTEND;TZID=Asia/Kolkata:20260613T170000
+SUMMARY:🏁 Barcelona GP - Practice 3
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Barcelona Grand Prix - Round 7 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260613T193000
+DTEND;TZID=Asia/Kolkata:20260613T203000
+SUMMARY:🏁 Barcelona GP - Quali
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Barcelona Grand Prix - Round 7 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r07-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260614T183000
+DTEND;TZID=Asia/Kolkata:20260614T203000
+SUMMARY:🏁 Barcelona GP - Race
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Barcelona Grand Prix - Round 7 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260626T170000
+DTEND;TZID=Asia/Kolkata:20260626T180000
+SUMMARY:🏁 Austrian GP - Practice 1
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Austrian Grand Prix - Round 8 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260626T203000
+DTEND;TZID=Asia/Kolkata:20260626T213000
+SUMMARY:🏁 Austrian GP - Practice 2
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Austrian Grand Prix - Round 8 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260627T160000
+DTEND;TZID=Asia/Kolkata:20260627T170000
+SUMMARY:🏁 Austrian GP - Practice 3
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Austrian Grand Prix - Round 8 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260627T193000
+DTEND;TZID=Asia/Kolkata:20260627T203000
+SUMMARY:🏁 Austrian GP - Quali
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Austrian Grand Prix - Round 8 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r08-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260628T183000
+DTEND;TZID=Asia/Kolkata:20260628T203000
+SUMMARY:🏁 Austrian GP - Race
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Austrian Grand Prix - Round 8 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260703T170000
+DTEND;TZID=Asia/Kolkata:20260703T180000
+SUMMARY:🏁 British GP - Practice 1
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:British Grand Prix - Round 9 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260703T210000
+DTEND;TZID=Asia/Kolkata:20260703T220000
+SUMMARY:🏁 British GP - Sprint Quali
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:British Grand Prix - Round 9 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260704T163000
+DTEND;TZID=Asia/Kolkata:20260704T173000
+SUMMARY:🏁 British GP - Sprint
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:British Grand Prix - Round 9 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260704T203000
+DTEND;TZID=Asia/Kolkata:20260704T213000
+SUMMARY:🏁 British GP - Quali
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:British Grand Prix - Round 9 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r09-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260705T193000
+DTEND;TZID=Asia/Kolkata:20260705T213000
+SUMMARY:🏁 British GP - Race
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:British Grand Prix - Round 9 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260717T170000
+DTEND;TZID=Asia/Kolkata:20260717T180000
+SUMMARY:🏁 Belgian GP - Practice 1
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Belgian Grand Prix - Round 10 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260717T203000
+DTEND;TZID=Asia/Kolkata:20260717T213000
+SUMMARY:🏁 Belgian GP - Practice 2
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Belgian Grand Prix - Round 10 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260718T160000
+DTEND;TZID=Asia/Kolkata:20260718T170000
+SUMMARY:🏁 Belgian GP - Practice 3
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Belgian Grand Prix - Round 10 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260718T193000
+DTEND;TZID=Asia/Kolkata:20260718T203000
+SUMMARY:🏁 Belgian GP - Quali
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Belgian Grand Prix - Round 10 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r10-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260719T183000
+DTEND;TZID=Asia/Kolkata:20260719T203000
+SUMMARY:🏁 Belgian GP - Race
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Belgian Grand Prix - Round 10 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260724T170000
+DTEND;TZID=Asia/Kolkata:20260724T180000
+SUMMARY:🏁 Hungarian GP - Practice 1
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Hungarian Grand Prix - Round 11 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260724T203000
+DTEND;TZID=Asia/Kolkata:20260724T213000
+SUMMARY:🏁 Hungarian GP - Practice 2
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Hungarian Grand Prix - Round 11 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260725T160000
+DTEND;TZID=Asia/Kolkata:20260725T170000
+SUMMARY:🏁 Hungarian GP - Practice 3
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Hungarian Grand Prix - Round 11 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260725T193000
+DTEND;TZID=Asia/Kolkata:20260725T203000
+SUMMARY:🏁 Hungarian GP - Quali
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Hungarian Grand Prix - Round 11 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r11-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260726T183000
+DTEND;TZID=Asia/Kolkata:20260726T203000
+SUMMARY:🏁 Hungarian GP - Race
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Hungarian Grand Prix - Round 11 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260821T160000
+DTEND;TZID=Asia/Kolkata:20260821T170000
+SUMMARY:🏁 Dutch GP - Practice 1
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Dutch Grand Prix - Round 12 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260821T200000
+DTEND;TZID=Asia/Kolkata:20260821T210000
+SUMMARY:🏁 Dutch GP - Sprint Quali
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Dutch Grand Prix - Round 12 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260822T153000
+DTEND;TZID=Asia/Kolkata:20260822T163000
+SUMMARY:🏁 Dutch GP - Sprint
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Dutch Grand Prix - Round 12 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260822T193000
+DTEND;TZID=Asia/Kolkata:20260822T203000
+SUMMARY:🏁 Dutch GP - Quali
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Dutch Grand Prix - Round 12 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r12-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260823T183000
+DTEND;TZID=Asia/Kolkata:20260823T203000
+SUMMARY:🏁 Dutch GP - Race
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Dutch Grand Prix - Round 12 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260904T160000
+DTEND;TZID=Asia/Kolkata:20260904T170000
+SUMMARY:🏁 Italian GP - Practice 1
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Italian Grand Prix - Round 13 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260904T193000
+DTEND;TZID=Asia/Kolkata:20260904T203000
+SUMMARY:🏁 Italian GP - Practice 2
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Italian Grand Prix - Round 13 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260905T160000
+DTEND;TZID=Asia/Kolkata:20260905T170000
+SUMMARY:🏁 Italian GP - Practice 3
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Italian Grand Prix - Round 13 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260905T193000
+DTEND;TZID=Asia/Kolkata:20260905T203000
+SUMMARY:🏁 Italian GP - Quali
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Italian Grand Prix - Round 13 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r13-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260906T183000
+DTEND;TZID=Asia/Kolkata:20260906T203000
+SUMMARY:🏁 Italian GP - Race
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Italian Grand Prix - Round 13 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260911T170000
+DTEND;TZID=Asia/Kolkata:20260911T180000
+SUMMARY:🏁 Spanish GP - Practice 1
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Spanish Grand Prix - Round 14 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260911T203000
+DTEND;TZID=Asia/Kolkata:20260911T213000
+SUMMARY:🏁 Spanish GP - Practice 2
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Spanish Grand Prix - Round 14 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260912T160000
+DTEND;TZID=Asia/Kolkata:20260912T170000
+SUMMARY:🏁 Spanish GP - Practice 3
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Spanish Grand Prix - Round 14 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260912T193000
+DTEND;TZID=Asia/Kolkata:20260912T203000
+SUMMARY:🏁 Spanish GP - Quali
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Spanish Grand Prix - Round 14 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r14-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260913T183000
+DTEND;TZID=Asia/Kolkata:20260913T203000
+SUMMARY:🏁 Spanish GP - Race
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Spanish Grand Prix - Round 14 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260924T140000
+DTEND;TZID=Asia/Kolkata:20260924T150000
+SUMMARY:🏁 Azerbaijan GP - Practice 1
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Azerbaijan Grand Prix - Round 15 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260924T173000
+DTEND;TZID=Asia/Kolkata:20260924T183000
+SUMMARY:🏁 Azerbaijan GP - Practice 2
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Azerbaijan Grand Prix - Round 15 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260925T140000
+DTEND;TZID=Asia/Kolkata:20260925T150000
+SUMMARY:🏁 Azerbaijan GP - Practice 3
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Azerbaijan Grand Prix - Round 15 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260925T173000
+DTEND;TZID=Asia/Kolkata:20260925T183000
+SUMMARY:🏁 Azerbaijan GP - Quali
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Azerbaijan Grand Prix - Round 15 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r15-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20260926T163000
+DTEND;TZID=Asia/Kolkata:20260926T183000
+SUMMARY:🏁 Azerbaijan GP - Race
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Azerbaijan Grand Prix - Round 15 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261002T100000
+DTEND;TZID=Asia/Kolkata:20261002T110000
+SUMMARY:🏁 Bahrain GP in Malaysia - Practice 1
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Bahrain Grand Prix in Malaysia - Round 16 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261002T133000
+DTEND;TZID=Asia/Kolkata:20261002T143000
+SUMMARY:🏁 Bahrain GP in Malaysia - Practice 2
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Bahrain Grand Prix in Malaysia - Round 16 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261003T100000
+DTEND;TZID=Asia/Kolkata:20261003T110000
+SUMMARY:🏁 Bahrain GP in Malaysia - Practice 3
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Bahrain Grand Prix in Malaysia - Round 16 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261003T133000
+DTEND;TZID=Asia/Kolkata:20261003T143000
+SUMMARY:🏁 Bahrain GP in Malaysia - Quali
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Bahrain Grand Prix in Malaysia - Round 16 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r16-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261004T123000
+DTEND;TZID=Asia/Kolkata:20261004T143000
+SUMMARY:🏁 Bahrain GP in Malaysia - Race
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Bahrain Grand Prix in Malaysia - Round 16 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261009T140000
+DTEND;TZID=Asia/Kolkata:20261009T150000
+SUMMARY:🏁 Singapore GP - Practice 1
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Singapore Grand Prix - Round 17 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-sq@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261009T180000
+DTEND;TZID=Asia/Kolkata:20261009T190000
+SUMMARY:🏁 Singapore GP - Sprint Quali
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Singapore Grand Prix - Round 17 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-sprint@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261010T143000
+DTEND;TZID=Asia/Kolkata:20261010T153000
+SUMMARY:🏁 Singapore GP - Sprint
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Singapore Grand Prix - Round 17 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261010T183000
+DTEND;TZID=Asia/Kolkata:20261010T193000
+SUMMARY:🏁 Singapore GP - Quali
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Singapore Grand Prix - Round 17 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r17-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261011T173000
+DTEND;TZID=Asia/Kolkata:20261011T193000
+SUMMARY:🏁 Singapore GP - Race
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Singapore Grand Prix - Round 17 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261023T230000
+DTEND;TZID=Asia/Kolkata:20261024T000000
+SUMMARY:🏁 United States GP - Practice 1
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:United States Grand Prix - Round 18 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261024T023000
+DTEND;TZID=Asia/Kolkata:20261024T033000
+SUMMARY:🏁 United States GP - Practice 2
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:United States Grand Prix - Round 18 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261024T230000
+DTEND;TZID=Asia/Kolkata:20261025T000000
+SUMMARY:🏁 United States GP - Practice 3
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:United States Grand Prix - Round 18 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261025T023000
+DTEND;TZID=Asia/Kolkata:20261025T033000
+SUMMARY:🏁 United States GP - Quali
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:United States Grand Prix - Round 18 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r18-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261026T013000
+DTEND;TZID=Asia/Kolkata:20261026T033000
+SUMMARY:🏁 United States GP - Race
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:United States Grand Prix - Round 18 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261031T000000
+DTEND;TZID=Asia/Kolkata:20261031T010000
+SUMMARY:🏁 Mexico City GP - Practice 1
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Mexico City Grand Prix - Round 19 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261031T033000
+DTEND;TZID=Asia/Kolkata:20261031T043000
+SUMMARY:🏁 Mexico City GP - Practice 2
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Mexico City Grand Prix - Round 19 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261031T230000
+DTEND;TZID=Asia/Kolkata:20261101T000000
+SUMMARY:🏁 Mexico City GP - Practice 3
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Mexico City Grand Prix - Round 19 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261101T023000
+DTEND;TZID=Asia/Kolkata:20261101T033000
+SUMMARY:🏁 Mexico City GP - Quali
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Mexico City Grand Prix - Round 19 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r19-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261102T013000
+DTEND;TZID=Asia/Kolkata:20261102T033000
+SUMMARY:🏁 Mexico City GP - Race
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Mexico City Grand Prix - Round 19 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261106T210000
+DTEND;TZID=Asia/Kolkata:20261106T220000
+SUMMARY:🏁 Brazilian GP - Practice 1
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix - Round 20 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261107T003000
+DTEND;TZID=Asia/Kolkata:20261107T013000
+SUMMARY:🏁 Brazilian GP - Practice 2
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix - Round 20 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261107T200000
+DTEND;TZID=Asia/Kolkata:20261107T210000
+SUMMARY:🏁 Brazilian GP - Practice 3
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix - Round 20 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261107T233000
+DTEND;TZID=Asia/Kolkata:20261108T003000
+SUMMARY:🏁 Brazilian GP - Quali
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix - Round 20 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r20-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261108T223000
+DTEND;TZID=Asia/Kolkata:20261109T003000
+SUMMARY:🏁 Brazilian GP - Race
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Brazilian Grand Prix - Round 20 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261120T060000
+DTEND;TZID=Asia/Kolkata:20261120T070000
+SUMMARY:🏁 Las Vegas GP - Practice 1
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix - Round 21 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261120T093000
+DTEND;TZID=Asia/Kolkata:20261120T103000
+SUMMARY:🏁 Las Vegas GP - Practice 2
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix - Round 21 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261121T060000
+DTEND;TZID=Asia/Kolkata:20261121T070000
+SUMMARY:🏁 Las Vegas GP - Practice 3
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix - Round 21 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261121T093000
+DTEND;TZID=Asia/Kolkata:20261121T103000
+SUMMARY:🏁 Las Vegas GP - Quali
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix - Round 21 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r21-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261122T093000
+DTEND;TZID=Asia/Kolkata:20261122T113000
+SUMMARY:🏁 Las Vegas GP - Race
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Las Vegas Grand Prix - Round 21 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261127T190000
+DTEND;TZID=Asia/Kolkata:20261127T200000
+SUMMARY:🏁 Qatar GP - Practice 1
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix - Round 22 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261127T223000
+DTEND;TZID=Asia/Kolkata:20261127T233000
+SUMMARY:🏁 Qatar GP - Practice 2
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix - Round 22 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261128T200000
+DTEND;TZID=Asia/Kolkata:20261128T210000
+SUMMARY:🏁 Qatar GP - Practice 3
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix - Round 22 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261128T233000
+DTEND;TZID=Asia/Kolkata:20261129T003000
+SUMMARY:🏁 Qatar GP - Quali
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix - Round 22 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r22-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261129T213000
+DTEND;TZID=Asia/Kolkata:20261129T233000
+SUMMARY:🏁 Qatar GP - Race
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Qatar Grand Prix - Round 22 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r23-fp1@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261204T150000
+DTEND;TZID=Asia/Kolkata:20261204T160000
+SUMMARY:🏁 Abu Dhabi GP - Practice 1
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix - Round 23 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r23-fp2@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261204T183000
+DTEND;TZID=Asia/Kolkata:20261204T193000
+SUMMARY:🏁 Abu Dhabi GP - Practice 2
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix - Round 23 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r23-fp3@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261205T160000
+DTEND;TZID=Asia/Kolkata:20261205T170000
+SUMMARY:🏁 Abu Dhabi GP - Practice 3
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix - Round 23 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r23-quali@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261205T193000
+DTEND;TZID=Asia/Kolkata:20261205T203000
+SUMMARY:🏁 Abu Dhabi GP - Quali
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix - Round 23 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-r23-race@formula-1-ics.rabbitwingz.github.io
+DTSTAMP:20261031T200750Z
+SEQUENCE:0
+DTSTART;TZID=Asia/Kolkata:20261206T183000
+DTEND;TZID=Asia/Kolkata:20261206T203000
+SUMMARY:🏁 Abu Dhabi GP - Race
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Abu Dhabi Grand Prix - Round 23 of the 2026 season
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
